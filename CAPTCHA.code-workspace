@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "CAPTCHA",
+			"path": "."
+		},
+		{
+			"name": "TEST_CAPTCHAS",
+			"path": "../Handwritten-CAPTCHA-Recognition-main/TEST_CAPTCHAS"
+		},
+		{
+			"name": "WEIGHT",
+			"path": "../Handwritten-CAPTCHA-Recognition-main/WEIGHT"
+		}
+	],
+	"settings": {}
+}
